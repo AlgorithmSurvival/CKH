@@ -17,4 +17,5 @@
 *.ilk
 *.log
 *.pdb
-*.Json
+*.json
+
